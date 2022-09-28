@@ -1,0 +1,1 @@
+A simple page made for the freeCodeCamp challenge in the Web Design section.
